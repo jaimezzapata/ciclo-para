@@ -1,18 +1,13 @@
-## Getting Started
+## Ejercicio #1: Ciclo Para
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Ejercicio de control de ventas
 
-## Folder Structure
+Una tienda de tecnología desea llevar un control de ventas de sus productos. El día de hoy lazó una promoción en la que sus tres productos principales serán los unicos que estarán disponibles.
+Quiere saber cual producto es el mas vendido (entre esos tres) solo registrando las primeras 20 compras
 
-The workspace contains two folders by default, where:
+Desarrollar un algoritmo que permita dar solución a la situación planteada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Listado de productos:
+- Xioami 18 Fold
+- Iphone Duo
+- Samsung Galaxy Fold 8
